@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Api", "Sat.Recruitment.Api\Sat.Recruitment.Api.csproj", "{1F342EA2-E7B1-4E53-AB93-9C62288D3FB0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Test", "Sat.Recruitment.Test\Sat.Recruitment.Test.csproj", "{42E696E9-2672-4B91-AD96-353A69F7219C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Api.Test", "Sat.Recruitment.Test\Sat.Recruitment.Api.Test.csproj", "{42E696E9-2672-4B91-AD96-353A69F7219C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Repository", "Sat.Recruitment.Repository\Sat.Recruitment.Repository.csproj", "{192C8967-50E9-4660-ACAE-FF35DCD22870}"
 EndProject
@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Model", "Sa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Service", "Sat.Recruitment.Service\Sat.Recruitment.Service.csproj", "{85DD02C2-2104-4178-B585-489A3C5E13B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sat.Recruitment.Service.Test", "Sat.Recruitment.Service.Test\Sat.Recruitment.Service.Test.csproj", "{B0211DCA-B045-47E8-926E-88E9DD9E497B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sat.Recruitment.Service.Test", "Sat.Recruitment.Service.Test\Sat.Recruitment.Service.Test.csproj", "{B0211DCA-B045-47E8-926E-88E9DD9E497B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

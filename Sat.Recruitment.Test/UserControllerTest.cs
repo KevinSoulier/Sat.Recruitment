@@ -10,7 +10,7 @@ using Sat.Recruitment.Service;
 using Sat.Recruitment.Service.Model;
 using Xunit;
 
-namespace Sat.Recruitment.Test
+namespace Sat.Recruitment.Api.Test
 {
     [CollectionDefinition("Tests", DisableParallelization = true)]
     public class UserControllerTest
